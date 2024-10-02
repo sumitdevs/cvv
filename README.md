@@ -11,5 +11,5 @@ This project is a single web page that uses proper HTML semantics to ensure acce
 - Lightweight and fast loading
 
 ## vist page
-https://sumitdevs.github.io/cvv/
-
+[https://sumitdevs.github.io/cvv/
+](https://github.com/sumitdevs/cvv)
